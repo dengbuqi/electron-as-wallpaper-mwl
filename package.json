@@ -1,0 +1,25 @@
+{
+  "name": "electron-as-wallpaper-mwl",
+  "version": "1.0.0",
+  "author": "dengbuqi",
+  "description": "A package to set electron window as the wallpaper for macos, windows and linux",
+  "keywords": ["electron", "wallpaper", "desktop", "macos", "windows", "linux"],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dengbuqi/electron-as-wallpaper-mwl"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/dengbuqi/electron-as-wallpaper-mwl",
+  "bugs": "https://github.com/dengbuqi/electron-as-wallpaper-mwl/issues",
+  "main": "main.js",
+  "scripts": {
+    "test": "electron --trace-warnings test.js"
+  },
+  "devDependencies": {
+    "electron": "^29.1.6",
+    "electron-builder": "^24.13.3"
+  },
+  "optionalDependencies": {
+    "electron-as-wallpaper": "^1.0.8"
+  }
+}
