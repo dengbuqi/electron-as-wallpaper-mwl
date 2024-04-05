@@ -2,7 +2,17 @@
 
 ## A package to set electron window as the wallpaper for macos, windows and linux
 
-### Example
+## Dependencies
+> Need node-gpy support for all system
+
+> Linux: \
+> xprop
+
+> Windows:
+
+> MacOS:
+
+## Example
 ```javascript
 const { app, BrowserWindow, screen } = require('electron/main')
 
