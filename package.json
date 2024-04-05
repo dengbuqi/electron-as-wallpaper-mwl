@@ -1,9 +1,16 @@
 {
   "name": "electron-as-wallpaper-mwl",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "dengbuqi",
   "description": "A package to set electron window as the wallpaper for macos, windows and linux",
-  "keywords": ["electron", "wallpaper", "desktop", "macos", "windows", "linux"],
+  "keywords": [
+    "electron",
+    "wallpaper",
+    "desktop",
+    "macos",
+    "windows",
+    "linux"
+  ],
   "repository": {
     "type": "git",
     "url": "https://github.com/dengbuqi/electron-as-wallpaper-mwl"
