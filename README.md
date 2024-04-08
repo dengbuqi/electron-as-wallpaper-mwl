@@ -16,7 +16,7 @@
 ```javascript
 const { app, BrowserWindow, screen } = require('electron/main')
 
-const {attach, detach} = require("./main")
+const {attach, detach} = require("electron-as-wallpaper-mwl")
 
 let mainWindow;
 let wallpaperwins = [];
